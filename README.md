@@ -1,2 +1,2 @@
 # python_lessons
-ushbu repozitoriyada oython darslariga oid darslar mavjud
+ushbu repozitoriyada python darslariga oid darslar mavjud
